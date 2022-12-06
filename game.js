@@ -5,18 +5,18 @@ random_num = (Math.round((Math.random() * 3) + 1));
 
 link = new Array;
 
-link[1] = { flag: "../assets/flagImages/ad.png", value: 'andorra' };
-link[2] = { flag: "../assets/flagImages/ae.png", value: 'united arab emirates' };
-link[3] = { flag: "../assets/flagImages/af.png", value: 'afghanistan' };
-link[4] = { flag: "../assets/flagImages/ag.png", value: 'antigua and barbuda' };
+link[1] = { flag: "../assets/flagimages/ad.png", value: 'andorra' };
+link[2] = { flag: "../assets/flagimages/ae.png", value: 'united arab emirates' };
+link[3] = { flag: "../assets/flagimages/af.png", value: 'afghanistan' };
+link[4] = { flag: "../assets/flagimages/ag.png", value: 'antigua and barbuda' };
 
 
 
 
-link[5] = { flag: "../assets/flagImages/ar.png", value: 'argentina' };
-link[6] = { flag: "../assets/flagImages/ca.png", value: 'canada' };
-link[7] = { flag: "../assets/flagImages/ve.png", value: 'venezuela' };
-link[8] = { flag: "../assets/flagImages/us.png", value: 'usa' };
+link[5] = { flag: "../assets/flagimages/ar.png", value: 'argentina' };
+link[6] = { flag: "../assets/flagimages/ca.png", value: 'canada' };
+link[7] = { flag: "../assets/flagimages/ve.png", value: 'venezuela' };
+link[8] = { flag: "../assets/flagimages/us.png", value: 'usa' };
 
 
 /* Function that compares user input to link value */
